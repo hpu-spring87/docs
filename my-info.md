@@ -1,7 +1,7 @@
 [TOC]
 
 # Overview
-About me.
+My information.
 
 # My name
 - First name: `SON`
@@ -35,6 +35,6 @@ samtron1412@gmail.com
 18jGmefCfJG1zYfa9dx4yhCZcBvNLW1jaj
 
 # My most treasured possessions
+- Myself (brain + body): health, soul, scientific faith
 - Family
 - Friendship
-- My-self (brain + body): health, soul, scientific faith
