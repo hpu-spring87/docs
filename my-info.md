@@ -3,19 +3,6 @@
 # Overview
 My information.
 
-# My paper signature
-## Son
-
-![easy](graphic/about-me/son-easy.JPG)
-
-![diff](graphic/about-me/son-diff.JPG)
-
-## Sontran
-
-![easy](graphic/about-me/sontran-easy.JPG)
-
-![diff](graphic/about-me/sontran-diff.JPG)
-
 # My email
 samtron1412@gmail.com
 
