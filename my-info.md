@@ -3,11 +3,6 @@
 # Overview
 My information.
 
-# My name
-- First name: `SON`
-- Middle name: `HUYNH THAI`
-- Last name: `TRAN`
-
 # My paper signature
 ## Son
 
